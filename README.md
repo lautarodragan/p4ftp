@@ -3,8 +3,7 @@ p4ftp
 
 A little Windows Batch Script to upload a Perforce ChangeList from console to a FTP host 
 
-First argument is the change list number, and is mandatory.
-
+First argument is the change list number, and is mandatory.   
 Second argument is an optional "1" flag, indicating no confirmation is desired.
 
 Usage 
