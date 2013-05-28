@@ -23,4 +23,4 @@ Limitations
 - works only for straight-forward mappings
 - directory structure must already exist on the server, this script doesn't create the folders
 
-On Build Failure: http://buildfailure.wordpress.com/2013/05/15/windows-batch-script-ftp-upload-a-perforce-changelist/
+On Build Failure: http://buildfailure.wordpress.com/2013/05/19/windows-batch-script-ftp-upload-a-perforce-changelist/
